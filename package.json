@@ -1,0 +1,21 @@
+{
+  "name": "sort-stream",
+  "description": "Array.prototype.sort for streams",
+  "version": "1.0.0",
+  "homepage": "https://github.com/jed/sort-stream2",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jed/sort-stream2.git"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Jed Schmidt <where@jed.is> (http://jed.is)",
+  "license": "MIT",
+  "dependencies": {
+    "through2": "^0.6.3"
+  },
+  "devDependencies": {
+    "concat-stream": "^1.4.7"
+  }
+}
