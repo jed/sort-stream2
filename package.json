@@ -17,5 +17,9 @@
   },
   "devDependencies": {
     "concat-stream": "^1.4.7"
-  }
+  },
+  "keywords": [
+    "streams",
+    "sort"
+  ]
 }
