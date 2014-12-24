@@ -3,7 +3,7 @@ sort-stream2
 
 [![Build Status](https://travis-ci.org/jed/sort-stream2.svg)](https://travis-ci.org/jed/sort-stream2)
 
-Array.prototype.sort for streams, a refresh of [@domenictarr](/dominictarr)'s [sort-stream](/dominictarr/sort-stream).
+Array.prototype.sort for streams, a refresh of [@domenictarr](//github.com/dominictarr)'s [sort-stream](//github.com/dominictarr/sort-stream).
 
 Example
 -------
